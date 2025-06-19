@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Navneet Kumar Singh
+# Hi there, I'm Navneet Kumar Singh
 
 🎓 B.Tech in Computer Science | 💻 Software Engineer
 
